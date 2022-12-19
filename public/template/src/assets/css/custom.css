@@ -1,0 +1,9 @@
+.action-buttons{
+	display: flex;
+}
+
+.row-center{
+	width: 80%;
+	padding-left: 17%;
+	padding-right: 0%;
+}
